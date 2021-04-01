@@ -1,0 +1,5 @@
+importFrom("utils", "data", "read.table")
+export(chrLoad)
+export(chrom2chr)
+export(chr2chrom)
+export(read_ucsc_cytobandideo)

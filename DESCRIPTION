@@ -1,0 +1,13 @@
+Encoding: UTF-8
+Package: chromosomes
+Type: Package
+Title: chromosomes
+Version: 1.0-1
+Date: 2017-02-02
+Author: Bastien Job [aut, cre]
+Maintainer: Bastien Job	<bastien.JOB@gustaveroussy.fr>
+Depends: R(>= 3.1.0)
+Description: Basic chromosomes information for homo sapiens (hg18..hg38), mus musculus (mm7..mm10) and rattus norvegicus (rn5..rn6).
+License: GPL (>=2)
+NeedsCompilation: no
+Packaged: 2017-02-03 13:10:36 UTC; job
